@@ -6,21 +6,6 @@
 
 A deep learning model that generates Urdu captions for images using a CNN-LSTM architecture. This project uses InceptionV3 for image feature extraction and LSTM for sequence generation.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Installation](#installation)
-- [Dataset](#dataset)
-- [Usage](#usage)
-- [Model Training](#model-training)
-- [Inference](#inference)
-- [Results](#results)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 🎯 Overview
 
 This project implements an image captioning system specifically designed for Urdu language. The model combines:
