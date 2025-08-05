@@ -332,11 +332,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **TensorFlow Team**: For the excellent deep learning framework
 - **Urdu Language Community**: For language support and feedback
 
-## 📞 Contact
-
-- **Project Link**: [https://github.com/yourusername/urdu-caption-generation](https://github.com/yourusername/urdu-caption-generation)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/urdu-caption-generation/issues)
-- **Email**: your.email@example.com
 
 ---
 
